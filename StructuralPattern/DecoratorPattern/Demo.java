@@ -5,4 +5,5 @@ class Demo{
         Dress fancy = new FancyDress(new SportsDress(new BasicDress()));
        fancy.assemble();
     }
-}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
+
+}
